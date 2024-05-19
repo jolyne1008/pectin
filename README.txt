@@ -1,1 +1,1 @@
-pectin
+The scripts are primarily utilized for processing genomic and metagenomic data pertaining to the articles, as well as conducting statistical calculations using the Generalized Linear Mixed Models (GLMM) methodology.
